@@ -1,5 +1,8 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D92735,35:F34B3F,70:FF8B53,100:FFD078&height=200&section=header&text=Hello%2C%20World%21&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="./hello-world-aurora.svg"
+       alt="Hello, World! Animated Aurora Banner"
+       width="100%" />
 </div>
 
 ## Hi, Its me Sushma Kafle 👋
