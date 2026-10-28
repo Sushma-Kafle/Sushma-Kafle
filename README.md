@@ -2,11 +2,13 @@
 
 ## About Me:
 
-Experienced working with data across finance, consumer analytics and healthcare, I have built a strong foundation in data analytics, data engineering, and application systems through roles as a Data Analyst, ETL Analyst, and Application Analyst. My passion lies in transforming complex datasets into meaningful insights, solving challenging problems, and developing scalable, data-driven solutions.
+**I see data as more than numbers and records; I see opportunities to solve problems, uncover patterns, and drive meaningful change.**
 
-My technical expertise spans data integration, ETL/ELT development, data wrangling, exploratory data analysis (EDA), statistical analysis, data visualization, and pipeline optimization. I enjoy investigating data anomalies, uncovering patterns, performing root cause analysis, and improving data quality, reliability, and operational efficiency.
+With experience across finance, consumer data and healthcare; my career has evolved through **data analytics, ETL development, and application systems** driven by a consistent passion for understanding data and turning complexity into clarity.
 
-Building on my professional experience and Master's in Applied Data Science, I am expanding my focus toward machine learning, predictive modeling, time series forecasting, natural language processing (NLP), and intelligent automation. I am particularly interested in bridging data engineering with data science to move beyond descriptive analytics toward predictive and prescriptive insights that support smarter decision-making and deliver measurable business value.
+My expertise spans **data engineering, ETL/ELT pipelines, data quality, statistical analysis and data visualization**. I thrive on investigating anomalies, identifying root causes and designing scalable solutions that improve data reliability and operational efficiency.
+
+Now, through my **Master's in Applied Data Science**, I am extending that foundation into **machine learning, predictive modeling, time series forecasting and natural language processing (NLP)**. My ambition is to connect the engineering that makes data reliable with the intelligence that makes it valuable, moving beyond reporting what happened to anticipating what comes next.
 
 <!--
 **Sushma-Kafle/Sushma-Kafle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
