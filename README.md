@@ -4,11 +4,11 @@
 
 **I see data as more than numbers and records; I see opportunities to solve problems, uncover patterns and drive meaningful change.**
 
-With experience across finance, consumer data and healthcare; my career has evolved through **data analytics, ETL development, and application systems** driven by a consistent passion for understanding data and turning complexity into clarity.
+With experience across finance, consumer data and healthcare; my career has evolved through data analytics, ETL development, and application systems driven by a consistent passion for understanding data and turning complexity into clarity.
 
-My expertise spans **data engineering, ETL/ELT pipelines, data quality, statistical analysis and data visualization**. I thrive on investigating anomalies, identifying root causes and designing scalable solutions that improve data reliability and operational efficiency.
+My expertise spans data engineering, ETL/ELT pipelines, data quality, statistical analysis and data visualization. I thrive on investigating anomalies, identifying root causes and designing scalable solutions that improve data reliability and operational efficiency.
 
-Now, through my **Master's in Applied Data Science**, I am extending that foundation into **machine learning, predictive modeling, time series forecasting and natural language processing (NLP)**. My ambition is to connect the engineering that makes data reliable with the intelligence that makes it valuable, moving beyond reporting what happened to anticipating what comes next.
+Now, through my Master's in Applied Data Science, I am extending that foundation into machine learning, predictive modeling, time series forecasting and natural language processing (NLP). My ambition is to connect the engineering that makes data reliable with the intelligence that makes it valuable, moving beyond reporting what happened to anticipating what comes next.
 
 ## 🎓 Education
 M.S. in Applied Data Science (University of San Diego, 2027* anticipated)
