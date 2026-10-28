@@ -13,7 +13,7 @@ Now, through my Master's in Applied Data Science, I am extending that foundation
 ## 🎓 Education
 M.S. in Applied Data Science (University of San Diego, 2027* anticipated)
 
-B.S. in Management Information System (Salem State University, 2015))
+B.S. in Management Information System (Salem State University, 2015)
 
 <!--
 **Sushma-Kafle/Sushma-Kafle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
