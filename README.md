@@ -12,14 +12,13 @@ Building on my industry experience and Master's in Applied Data Science, I am ea
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: 
+- ⚡ Fun fact: Love 
 -->
 
 
@@ -32,5 +31,19 @@ Building on my industry experience and Master's in Applied Data Science, I am ea
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
+
+
+## 🔭 Past Projects
+
+## 👉🏻 Independent Project: Steam Game Review Sentiment Analysis | NLP & Generative AI
+
+Developed an end-to-end Natural Language Processing (NLP) project to analyze player sentiment across five popular Steam games using nearly 4,900 user reviews. Compared traditional machine learning (TF-IDF with Logistic Regression), fine-tuned DistilBERT, and zero-shot FLAN-T5 to evaluate different approaches to sentiment classification. The fine-tuned DistilBERT model achieved the highest test accuracy of 92.61%, demonstrating the effectiveness of transformer-based models for understanding customer feedback. This project highlights practical skills in Python, text preprocessing, sentiment analysis, model fine-tuning, and performance evaluation.
+
+
+## 👉🏻 Team Project: Steam Game Review Sentiment Analysis | NLP & Generative AI
+
+An automated data pipeline for extracting, transforming, and loading Zillow housing market data using Apache Airflow, PostgreSQL, and Docker.
+
+## 👉🏻 Team Project: Education-Career-Success
 
 
