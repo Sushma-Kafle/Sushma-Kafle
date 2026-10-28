@@ -45,19 +45,16 @@ B.S. in Management Information System (Salem State University, 2015))
 
 ## 👉🏻 Independent Project: Steam Game Review Sentiment Analysis | NLP & Generative AI
 
-Developed an end-to-end Natural Language Processing (NLP) project to analyze player sentiment across five popular Steam games using nearly 4,900 user reviews. Compared traditional machine learning (TF-IDF with Logistic Regression), fine-tuned DistilBERT, and zero-shot FLAN-T5 to evaluate different approaches to sentiment classification. The fine-tuned DistilBERT model achieved the highest test accuracy of 92.61%, demonstrating the effectiveness of transformer-based models for understanding customer feedback. This project highlights practical skills in Python, text preprocessing, sentiment analysis, model fine-tuning, and performance evaluation.
-[Link of Project](https://github.com/Sushma-Kafle/ADS_509_Final_Project)
+Developed an end-to-end Natural Language Processing (NLP) project to analyze player sentiment across five popular Steam games using nearly 4,900 user reviews. Compared traditional machine learning (TF-IDF with Logistic Regression), fine-tuned DistilBERT, and zero-shot FLAN-T5 to evaluate different approaches to sentiment classification. The fine-tuned DistilBERT model achieved the highest test accuracy of 92.61%, demonstrating the effectiveness of transformer-based models for understanding customer feedback. This project highlights practical skills in Python, text preprocessing, sentiment analysis, model fine-tuning, and performance evaluation [Link of Project](https://github.com/Sushma-Kafle/ADS_509_Final_Project)
 
 
-## 👉🏻 Team Project: SZillow Housing Data
+## 👉🏻 Team Project: Zillow Housing Data
 
-An automated data pipeline for extracting, transforming, and loading Zillow housing market data using Apache Airflow, PostgreSQL, and Docker.
-
-[Link of Project](https://github.com/Sushma-Kafle/ADS507_Zillow)
+This project focused on building a modern, automated data pipeline that ingests Zillow data, transforms it into clean and structured formats and delivers analytics-ready tables for business intelligence tools. By using Docker, Airflow, PostgreSQL and Metabase, we created a scalable architecture that supports reliable and repeatable housing market analysis. [Link of Project](https://github.com/Sushma-Kafle/ADS507_Zillow)
 
 
 ## 👉🏻 Team Project: Education-Career-Success
 
-[Link of Project]( https://github.com/Sushma-Kafle/Education-Career-Success)
+This project focused to explore whether academic metrics alone are sufficient in predicting entrepreneurial success or if a broader combination of educational, professional and interpersonal factors offers a more accurate assessment. [Link of Project]( https://github.com/Sushma-Kafle/Education-Career-Success)
 
 
