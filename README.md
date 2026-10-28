@@ -4,7 +4,7 @@
 
 **I see data as more than numbers and records; I see opportunities to solve problems, uncover patterns and drive meaningful change.**
 
-With experience across finance, consumer data and healthcare; my career has evolved through data analytics, ETL development, and application systems driven by a consistent passion for understanding data and turning complexity into clarity.
+With experience across finance, consumer data and healthcare; my career has evolved through data analytics, ETL development and application systems driven by a consistent passion for understanding data and turning complexity into clarity.
 
 My expertise spans data engineering, ETL/ELT pipelines, data quality, statistical analysis and data visualization. I thrive on investigating anomalies, identifying root causes and designing scalable solutions that improve data reliability and operational efficiency.
 
