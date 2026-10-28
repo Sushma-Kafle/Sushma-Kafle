@@ -4,7 +4,6 @@
 
 ## Hi, Its me Sushma Kafle 👋
 
-## About Me:
 
 **I see data as more than numbers and records; I see opportunities to solve problems, uncover patterns and drive meaningful change.**
 
