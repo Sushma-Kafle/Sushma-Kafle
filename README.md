@@ -1,7 +1,7 @@
 
 <div align="center">
-  <img src="./hello-world-aurora.svg"
-       alt="Hello, World! Animated Aurora Banner"
+  <img src="./hello-world-aurora-slim.svg"
+       alt="Hello, World!"
        width="100%" />
 </div>
 
