@@ -1,9 +1,11 @@
 ## Hi, Its me Sushma Kafle 👋
 
+## About Me:
+I have working in the filed of data from past 10 years and working as Data Analyst/ ETL analyst/ Application Analyst. Something commmon in all titles or job is that I get to work with data and that is all my professional bsession with data. I love fixing problem , investing time in finding root cause and applying solution so it wont happen again. I spent most of my times in 
+
 <!--
 **Sushma-Kafle/Sushma-Kafle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on ...
@@ -15,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🛠 Tech Stack
+SQL Python R Tableau VS Code
+
+
+
