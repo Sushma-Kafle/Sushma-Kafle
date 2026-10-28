@@ -41,7 +41,7 @@ B.S. in Management Information System (Salem State University, 2015))
 
 
 
-## 🔭 Past Projects
+## 🔭 Individual and Group Projects
 
 ## 👉🏻 Independent Project: Steam Game Review Sentiment Analysis | NLP & Generative AI
 
