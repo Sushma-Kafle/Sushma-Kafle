@@ -1,11 +1,12 @@
 ## Hi, Its me Sushma Kafle 👋
 
 ## About Me:
-With over a decade of experience in the data domain, I have worked in various roles including Data Analyst, ETL Analyst and Application Analyst. My domain has been across finance, consumer data and healthcare. Throughout my career, my passion has remained rooted in working with data, solving complex problems, conducting root cause analysis and implementing sustainable solutions.
 
-My expertise spans data integration, ETL/ELT development, data transformation, pipeline optimization, data quality management and analytical reporting. I enjoy troubleshooting data anomalies, streamlining workflows and building reliable and scalable solutions that improve data integrity and operational efficiency.
+Experienced working with data across finance, consumer analytics and healthcare, I have built a strong foundation in data analytics, data engineering, and application systems through roles as a Data Analyst, ETL Analyst, and Application Analyst. My passion lies in transforming complex datasets into meaningful insights, solving challenging problems, and developing scalable, data-driven solutions.
 
-Building on my industry experience and Master's in Applied Data Science, I am eager to leverage machine learning, predictive analytics and intelligent automation to move beyond traditional reporting toward proactive, data-driven insights and innovative solutions.
+My technical expertise spans data integration, ETL/ELT development, data wrangling, exploratory data analysis (EDA), statistical analysis, data visualization, and pipeline optimization. I enjoy investigating data anomalies, uncovering patterns, performing root cause analysis, and improving data quality, reliability, and operational efficiency.
+
+Building on my professional experience and Master's in Applied Data Science, I am expanding my focus toward machine learning, predictive modeling, time series forecasting, natural language processing (NLP), and intelligent automation. I am particularly interested in bridging data engineering with data science to move beyond descriptive analytics toward predictive and prescriptive insights that support smarter decision-making and deliver measurable business value.
 
 <!--
 **Sushma-Kafle/Sushma-Kafle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
