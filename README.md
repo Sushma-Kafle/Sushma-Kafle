@@ -1,7 +1,11 @@
 ## Hi, Its me Sushma Kafle 👋
 
 ## About Me:
-I have working in the filed of data from past 10 years and working as Data Analyst/ ETL analyst/ Application Analyst. Something commmon in all titles or job is that I get to work with data and that is all my professional bsession with data. I love fixing problem , investing time in finding root cause and applying solution so it wont happen again. I spent most of my times in 
+With over a decade of experience in the data domain, I have worked in various roles including Data Analyst, ETL Analyst and Application Analyst. My domain has been across finance, consumer data and healthcare. Throughout my career, my passion has remained rooted in working with data, solving complex problems, conducting root cause analysis and implementing sustainable solutions.
+
+My expertise spans data integration, ETL/ELT development, data transformation, pipeline optimization, data quality management and analytical reporting. I enjoy troubleshooting data anomalies, streamlining workflows and building reliable and scalable solutions that improve data integrity and operational efficiency.
+
+Building on my industry experience and Master's in Applied Data Science, I am eager to leverage machine learning, predictive analytics and intelligent automation to move beyond traditional reporting toward proactive, data-driven insights and innovative solutions.
 
 <!--
 **Sushma-Kafle/Sushma-Kafle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
