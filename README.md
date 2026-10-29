@@ -59,8 +59,8 @@ Developed an end-to-end Natural Language Processing (NLP) project to analyze pla
 This project focused on building a modern, automated data pipeline that ingests Zillow data, transforms it into clean and structured formats and delivers analytics-ready tables for business intelligence tools. By using Docker, Airflow, PostgreSQL and Metabase, we created a scalable architecture that supports reliable and repeatable housing market analysis. [Link of Project](https://github.com/Sushma-Kafle/ADS507_Zillow)
 
 
-## 👉🏻 Team Project: Education-Career-Success
+## 👉🏻 Team Project:  Amazon Customer Review Data to Identify Helpful Review
 
-This project focused to explore whether academic metrics alone are sufficient in predicting entrepreneurial success or if a broader combination of educational, professional and interpersonal factors offers a more accurate assessment. [Link of Project]( https://github.com/Sushma-Kafle/Education-Career-Success)
+This project analyzes Amazon customer review data to identify what makes a review helpful. Using data science and machine learning, we build predictive models to surface the most helpful reviews and apply topic modeling to uncover the key themes and characteristics of helpful reviews across product categories and ratings.[Link of Project](https://github.com/tkbarb10/ADS_505_Project)
 
 
